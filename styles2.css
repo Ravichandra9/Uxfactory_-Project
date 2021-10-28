@@ -1,0 +1,49 @@
+.carousel-inner {
+  height: 75vh;
+  width: 100%;
+  padding: 0, 10px;
+}
+body {
+  height: 300%;
+  width: 100%;
+  font-family: sans-serif;
+}
+#header {
+  text-align: center;
+}
+h1 {
+  color: #ff5151;
+  text-align: center;
+}
+#bhavana {
+  height: 35vh;
+  width: 40%;
+  float: left;
+  margin: 20px 30px;
+  border-radius: 100px;
+}
+#suryalanka {
+  height: 35vh;
+  width: 40%;
+  float: left;
+  margin: 20px 30px;
+  border-radius: 100px;
+}
+#bec {
+  height: 35vh;
+  width: 40%;
+  float: left;
+  margin: 20px 30px;
+  border-radius: 100px;
+}
+#ag {
+  height: 35vh;
+  width: 40%;
+  float: left;
+  margin: 20px 30px;
+  border-radius: 100px;
+}
+p {
+  color: #161e54;
+  text-align: justify;
+}

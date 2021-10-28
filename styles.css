@@ -1,0 +1,87 @@
+#bg {
+  background-image: url(./images/bg4.jpg);
+  height: 370%;
+  width: 100%;
+  background-size: cover;
+  background-repeat: repeat-y;
+  position: absolute;
+}
+
+h1 {
+  color: #ff0075;
+  text-align: center;
+}
+.navbar {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  padding-left: 50px;
+  padding-right: 30px;
+  padding-top: 50px;
+}
+nav {
+  flex: 1;
+  text-align: right;
+}
+nav ul {
+  display: inline-block;
+  list-style: none;
+}
+nav ul li {
+  display: inline-block;
+  margin-right: 70px;
+  opacity: 1;
+  color: black;
+}
+nav ul li a {
+  text-decoration: none;
+  font-size: 25px;
+  font-weight: 500;
+  color: rgb(148, 238, 3);
+  font-family: sans-serif;
+}
+p {
+  font-size: 20px;
+  font-family: sans-serif;
+  margin: 5px;
+  padding: 10px;
+  color: white;
+  text-align: justify;
+}
+h2 {
+  color: #ff0075;
+  font-size: 25px;
+  font-family: sans-serif;
+  font-weight: bolder;
+}
+ul li {
+  font-size: 19px;
+  font-family: sans-serif;
+  padding-bottom: 10px;
+}
+li a:hover {
+  color: white;
+}
+#feedback {
+  font-size: 19px;
+  font-family: sans-serif;
+  font-weight: bold;
+  color: white;
+}
+.dropdown {
+  text-align: center;
+}
+#contactus {
+  text-align: center;
+  align-items: center;
+  color: #ff0075;
+}
+h3 {
+  background-color: black;
+}
+#btn {
+  background-color: #ff0075;
+}
+#dropdownMenuButton1 {
+  background-color: #125c13;
+}

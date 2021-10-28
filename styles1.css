@@ -1,0 +1,43 @@
+body {
+  height: 300%;
+  width: 100%;
+  font-family: sans-serif;
+}
+
+.carousel-inner {
+  height: 75vh;
+  width: 100%;
+  padding: 0, 10px;
+}
+#header {
+  text-align: center;
+}
+h1 {
+  color: #ff5151;
+  text-align: center;
+}
+#bhairavakona {
+  height: 35vh;
+  width: 40%;
+  float: left;
+  margin: 20px 30px;
+  border-radius: 100px;
+}
+#mallavaram {
+  height: 35vh;
+  width: 40%;
+  float: left;
+  margin: 20px 30px;
+  border-radius: 100px;
+}
+#valluramma {
+  height: 35vh;
+  width: 40%;
+  float: left;
+  margin: 20px 30px;
+  border-radius: 100px;
+}
+p {
+  color: #161e54;
+  text-align: justify;
+}
